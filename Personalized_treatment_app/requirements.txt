@@ -1,0 +1,16 @@
+streamlit
+pandas
+pdfplumber
+python-docx
+pytesseract
+opencv-python
+PyMuPDF
+spacy
+pyPDF2
+bcrypt
+# BytesIO
+image
+# base64
+Pillow
+dotenv
+openai
